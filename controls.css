@@ -1,0 +1,26 @@
+#controls{
+    position:relative;
+    width:100%;
+    height: 20%;
+    left:0px;
+}
+.ranges {
+    width:10%
+}
+#numbers {
+    color: darkblue;
+    background-color: seagreen;
+}
+#randoms {
+    color:beige;
+    background-color: midnightblue;
+}
+#createImage {
+    color:white;
+    background-color: black;
+}
+#display {
+    position: absolute;
+    width:100%;
+    height: auto;
+}
